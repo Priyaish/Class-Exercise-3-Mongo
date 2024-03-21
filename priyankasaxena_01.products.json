@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7a8"
+  },
+  "name": "iPhone 13 Pro",
+  "category": "Smartphone",
+  "price": 999,
+  "manufacturer": "Apple",
+  "release_date": {
+    "$date": "2021-09-24T00:00:00.000Z"
+  },
+  "ratings": 4.7
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7a9"
+  },
+  "name": "Samsung Galaxy S21 Ultra",
+  "category": "Smartphone",
+  "price": 1199,
+  "manufacturer": "Samsung",
+  "release_date": {
+    "$date": "2021-01-29T00:00:00.000Z"
+  },
+  "ratings": 4.6
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7aa"
+  },
+  "name": "Sony WH-1000XM4",
+  "category": "Headphones",
+  "price": 349,
+  "manufacturer": "Sony",
+  "release_date": {
+    "$date": "2020-08-06T00:00:00.000Z"
+  },
+  "ratings": 4.5
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7ab"
+  },
+  "name": "Dell XPS 13",
+  "category": "Laptop",
+  "price": 999,
+  "manufacturer": "Dell",
+  "release_date": {
+    "$date": "2020-01-07T00:00:00.000Z"
+  },
+  "ratings": 4.4
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7ac"
+  },
+  "name": "Nintendo Switch",
+  "category": "Gaming Console",
+  "price": 299,
+  "manufacturer": "Nintendo",
+  "release_date": {
+    "$date": "2017-03-03T00:00:00.000Z"
+  },
+  "ratings": 4.8
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7ad"
+  },
+  "name": "Canon EOS R5",
+  "category": "Camera",
+  "price": 3899,
+  "manufacturer": "Canon",
+  "release_date": {
+    "$date": "2020-07-30T00:00:00.000Z"
+  },
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7ae"
+  },
+  "name": "Tesla Model 3",
+  "category": "Electric Vehicle",
+  "price": 39990,
+  "manufacturer": "Tesla",
+  "release_date": {
+    "$date": "2017-07-28T00:00:00.000Z"
+  },
+  "ratings": 4.9
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7af"
+  },
+  "name": "Fitbit Charge 5",
+  "category": "Fitness Tracker",
+  "price": 179,
+  "manufacturer": "Fitbit",
+  "release_date": {
+    "$date": "2021-08-25T00:00:00.000Z"
+  },
+  "ratings": 4.3
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7b0"
+  },
+  "name": "Sony PlayStation 5",
+  "category": "Gaming Console",
+  "price": 499,
+  "manufacturer": "Sony",
+  "release_date": {
+    "$date": "2020-11-12T00:00:00.000Z"
+  },
+  "ratings": 4.8
+},
+{
+  "_id": {
+    "$oid": "65fb9cef8787237bf7cbf7b1"
+  },
+  "name": "Amazon Echo Dot (4th Gen)",
+  "category": "Smart Speaker",
+  "price": 49,
+  "manufacturer": "Amazon",
+  "release_date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "ratings": 4.7
+},
+{
+  "_id": {
+    "$oid": "65fb9daf8787237bf7cbf7b2"
+  },
+  "name": "wagon",
+  "category": "electronics",
+  "price": 99.99,
+  "manufacturer": "NewManufacturer",
+  "release_date": {
+    "$date": "2020-01-01T00:00:00.000Z"
+  },
+  "ratings": 4.5
+}]
